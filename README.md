@@ -19,3 +19,13 @@ for i from 0 to n−2 do
      j ← random integer such that i ≤ j < n
      exchange a[i] and a[j]
 ```
+# Cipher using Fisher-Yates
+
+###### For this assignment I decided to make a cipher, using the above explained method it shuffles the alphabet, and then prints out both the un-shuffled and shuffled versions
+
+###### Output Example:
+```
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+v g z l a u r i x k h j y c n o b e m f p s t q d w
+
+```
